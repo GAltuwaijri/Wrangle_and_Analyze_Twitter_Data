@@ -1,6 +1,8 @@
 # Wrangle and Analyze Twitter Data
 We wrangle, Analyze and visualize WeRateDogs account data from twitter by using python and its libraries
 
+[Click to preview report](https://github.com/GAltuwaijri/Wrangle_and_Analyze_Twitter_Data/blob/master/act_report.pdf)
+
 
 ## Table of Contents
 - [Introduction](#intro)
